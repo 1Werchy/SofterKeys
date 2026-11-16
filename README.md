@@ -4,7 +4,7 @@
 
 <p align="center">Keyboard configurator for VIA keyboards · Програма для налаштування клавіатур · Программа для настройки клавиатур</p>
 
-<p align="center"><a href="https://github.com/1Werchy/SofterKeys/releases/latest"><b>⬇ Download the latest version</b></a></p>
+<p align="center"><a href="https://github.com/1Werchy/SofterKeys/releases/latest"><b>⬇ Download the latest version</b></a> · <a href="https://t.me/SofterKeys"><b>✈ Telegram: t.me/SofterKeys</b></a></p>
 
 ---
 
